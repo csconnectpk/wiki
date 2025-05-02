@@ -1,21 +1,53 @@
-# git-wiki-skeleton
+# CSConnect Pakistan Wiki
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+**The collaborative knowledge hub for Computer Science in Pakistan**
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+---
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
+> 🚧 **This wiki is currently in its early stages.**
+>
+> There is little to no information available right now, but content will be added soon.
+>
+> Stay tuned — or better yet, [contribute](#get-involved) to help us build it faster!
 
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
+---
 
-## The git-wiki project
+## 📘 What You'll Find Here (Soon)
 
-The git-wiki project is composed by 3 different repository:
+- Guides on CS courses and technical topics  
+- University-specific resources and study plans  
+- Career and internship advice tailored to the Pakistani tech ecosystem  
+- Open research groups, tech events, and collaboration opportunities  
+- FAQs, tools, and templates for students and educators
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
+## 🤝 Get Involved
 
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it.
+Whether you're a student, educator, or industry expert, your contributions matter! Help grow this open resource by:
 
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
+- Improving existing pages  
+- Adding new topics or universities  
+- Sharing your CS journey or project experiences  
+- Reporting issues or suggesting ideas  
 
-Version: 1.0.9
+➡️ **[Join the community](#)** and start contributing today!
+
+## 🏫 University Pages
+
+- [FAST-NUCES](#)
+- [NUST SEECS](#)
+- [COMSATS](#)
+- [UET Lahore](#)
+- _More universities coming soon..._
+
+## 📚 Topics
+
+- [Data Structures & Algorithms](#)
+- [Operating Systems](#)
+- [Web & Mobile Development](#)
+- [AI & Machine Learning](#)
+- [Software Engineering](#)
+- _More topics will be added gradually._
+
+---
+
+© 2025 CSConnect Pakistan · All rights reserved.
