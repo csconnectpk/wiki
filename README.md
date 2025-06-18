@@ -29,24 +29,7 @@ Whether you're a student, educator, or industry expert, your contributions matte
 - Sharing your CS journey or project experiences  
 - Reporting issues or suggesting ideas  
 
-➡️ **[Join the community](#)** and start contributing today!
-
-## 🏫 University Pages
-
-- [FAST-NUCES](#)
-- [NUST SEECS](#)
-- [COMSATS](#)
-- [UET Lahore](#)
-- _More universities coming soon..._
-
-## 📚 Topics
-
-- [Data Structures & Algorithms](#)
-- [Operating Systems](#)
-- [Web & Mobile Development](#)
-- [AI & Machine Learning](#)
-- [Software Engineering](#)
-- _More topics will be added gradually._
+➡️ **[Join the community](https://csconnect.pk)** and start contributing today!
 
 ---
 
